@@ -1,0 +1,28 @@
+name: MrRichardKelly
+favicon: null
+layout_spectrum: 0.35291732591576874
+typography_spectrum: 0.06143253855407238
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7139807811472565
+  lightness: 0.9681054132524878
+  saturation: 0.9289280902594328
+  rhythmicContrast: 0.7761568543501198
+purpose: []
